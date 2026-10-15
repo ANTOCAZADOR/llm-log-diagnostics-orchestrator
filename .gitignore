@@ -1,0 +1,13 @@
+# Variables de entorno y secretos
+.env
+
+# Volúmenes locales de Docker
+db_storage/
+n8n_storage/
+.n8n/
+
+# Entornos y temporales de Python
+venv/
+env/
+__pycache__/
+*.pyc
