@@ -56,3 +56,7 @@ The system consists of three main components:
 ## Research Notes
 
 This repository also serves as a research log documenting how workflow orchestration platforms such as Prefect interact with contingency systems to improve resilience in fault-tolerant computing environments.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](license.md) file for details.
