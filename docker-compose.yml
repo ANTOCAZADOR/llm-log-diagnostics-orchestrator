@@ -44,7 +44,7 @@ services:
       prefect:
         condition: service_healthy
 
-    prefect:
+  prefect:
     image: prefecthq/prefect:3-latest
     restart: always
     command: prefect server start --host 0.0.0.0
