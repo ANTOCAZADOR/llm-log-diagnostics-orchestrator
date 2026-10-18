@@ -50,8 +50,8 @@ The system consists of three main components:
 - [x] Configure an n8n Webhook node to simulate incoming error logs.
 - [x] Develop a Python-based recovery script using Prefect.
 - [x] Build a simple MCP server to expose local tools.
-- [ ] Integrate the MCP server with an LLM for log analysis.
-- [ ] Connect the complete workflow: n8n -> LLM (via MCP) -> Prefect.
+- [x] Integrate the MCP server with an LLM for log analysis.
+- [x] Connect the complete workflow: n8n -> LLM (via MCP) -> Prefect.
 
 ## Research Notes
 
